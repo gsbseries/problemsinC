@@ -7,8 +7,6 @@
 #include <math.h>
 
 
-int GCD(int val1,int val2);
-
-int LCM(int val1,int val2);
+int conv(char ipadr[])
 
 #endif
