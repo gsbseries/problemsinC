@@ -1,2 +1,1 @@
-# problemsinC
-c programming questions
+
